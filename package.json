@@ -1,0 +1,21 @@
+{
+  "name": "Poco",
+  "version": "0.1.0",
+  "description": "Yet another minimally minimal JavaScript DOM library.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gummesson/poco.js.git"
+  },
+  "author": "Ellen Gummesson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gummesson/poco.js/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "matchdep": "~0.3.0",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-uglify": "~0.2.4"
+  }
+}
