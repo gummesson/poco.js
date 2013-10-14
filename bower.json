@@ -1,0 +1,21 @@
+{
+  "name": "poco",
+  "version": "0.1.0",
+  "homepage": "https://github.com/gummesson/poco.js",
+  "authors": [
+    "Ellen Gummesson <ellengummesson@gmail.com>"
+  ],
+  "description": "Yet another minimally minimal JavaScript DOM library.",
+  "main": "dist/poco.min.js",
+  "keywords": [
+    "DOM"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
