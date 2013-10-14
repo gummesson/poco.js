@@ -1,6 +1,6 @@
 {
   "name": "Poco",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Yet another minimally minimal JavaScript DOM library.",
   "private": true,
   "repository": {
