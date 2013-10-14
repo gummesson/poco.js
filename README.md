@@ -34,6 +34,15 @@ $$('.bar').each(function(element) {
 });
 ~~~
 
+### DOM Ready
+
+~~~ javascript
+$Ready(function() {
+  // ...
+});
+~~~
+
+
 ## Examples
 
 ### Selectors
@@ -55,6 +64,14 @@ $('#foo').on('click', function() {
 ~~~ javascript
 $$('.bar').each(function(el) {
   el.style.color = 'red';
+});
+~~~
+
+### DOM Ready
+
+~~~ javascript
+$Ready(function() {
+  alert('Welcome!');
 });
 ~~~
 
