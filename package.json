@@ -1,7 +1,7 @@
 {
   "name": "Poco",
   "version": "0.2.0",
-  "description": "Yet another minimally minimal JavaScript DOM library.",
+  "description": "Yet another minimally minimal JavaScript DOM “library”. For IE9+.",
   "private": true,
   "repository": {
     "type": "git",

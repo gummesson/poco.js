@@ -5,7 +5,7 @@
   "authors": [
     "Ellen Gummesson <ellengummesson@gmail.com>"
   ],
-  "description": "Yet another minimally minimal JavaScript DOM library.",
+  "description": "Yet another minimally minimal JavaScript DOM “library”. For IE9+.",
   "main": "dist/poco.min.js",
   "keywords": [
     "DOM"
